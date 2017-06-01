@@ -1,0 +1,50 @@
+body{
+    text-align:center;
+    background-color: aqua;
+    font-family: helvetica;
+    color:red;
+    padding: 150px;
+    font-size: 23;
+    border: 2px red dotted;
+    background-image: url("border-image1.JPG");
+    background-size: cover;
+}
+
+ul{
+    background-color: black;
+    height:30 px;
+ }
+
+li{
+    display: inline;
+    padding: 10px;
+    
+}
+
+a{
+    font-size: 
+    
+}
+a:hover{
+    color: aqua
+}
+
+header{
+    height: 20px; 
+    margin-bottom: 430px;       
+}
+
+img{
+    margin-top: 40px;
+    margin-bottom: 40px
+    height:150px    
+    border: 10px darkblue solid;
+    border-radius: 40px;
+}
+        
+a{
+    font-size: 20px;
+    color: coral;
+    text-decoration: none;
+    
+}
